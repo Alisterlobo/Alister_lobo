@@ -12,6 +12,9 @@
 - Node.js
 - MongoDB
 - MySQL
+- AWS
+- Python
+- OOP's
 
 ## 📫 Connect with Me
 LinkedIn: https://www.linkedin.com/in/alister-lobo-8406252b5/
